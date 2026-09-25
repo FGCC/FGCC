@@ -17,5 +17,5 @@ Desenvolvo ferramentas e automações que transformam dados complexos da B3 em i
 
 ### 📫 Vamos nos conectar?
 - **Site:** [www.darf6015.com.br](https://www.darf6015.com.br)
-- **Twitter/X:** [@TraderBolsa](https://twitter.com/TraderBolsa)
-- **LinkedIn:** [/company/traderbolsa](https://www.linkedin.com/company/traderbolsa)
+- **Twitter/X:** [@darf6015](https://twitter.com/darf6015)
+- **LinkedIn:** [/company/darf6015](https://www.linkedin.com/company/darf6015)
